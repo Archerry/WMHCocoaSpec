@@ -1,2 +1,2 @@
 # WMHCocoaSpec
-A 
+A spec file.
